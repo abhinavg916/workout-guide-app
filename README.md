@@ -6,6 +6,8 @@ Watch the live production build here i.e. **deployment** - [Live Preview](https:
 
 **Developed** using Reactjs, Axios, React Router, Material UI and Rapid API
 
+Developed Workout Guide App using React.js, allowing users to search for exercises with filters, view detailed exercise information and embedded suggested YouTube videos for demonstrations. Implemented pagination for browsing of exercises.
+
 ### Features
 
 - **Exercise Search** - Find exercises by muscle group, equipment, or exercise name.
