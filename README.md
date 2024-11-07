@@ -1,6 +1,6 @@
 # Workout Guide
 
-![cover]()
+![cover](https://github.com/abhinavg916/workout-guide-app/blob/main/Workout%20Guide%20Cover.png)
 
 Watch the live production build here i.e. **deployment** - [Live Preview](https://delightful-selkie-3ba4b7.netlify.app/)
 
