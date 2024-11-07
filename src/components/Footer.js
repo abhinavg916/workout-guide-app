@@ -1,11 +1,13 @@
 import React from "react";
 import { Box, Stack, Typography } from "@mui/material";
-import Logo from "../assets/images/Logo-1.png";
+import Logo from "../assets/images/Logo.png";
 
 const Footer = () => (
-	<Box my="80px" bgcolor="#fffafb">
+	<Box my="80px">
 		<Stack gap="40px" sx={{ alignItems: "center" }} flexWrap="wrap" px="40px" py="48px">
-			<img src={Logo} alt="logo" style={{ width: "200px", height: "41px" }} />
+			<Typography color="#fbbf24" fontWeight="600" fontSize="26px">
+				WORKOUT GUIDE
+			</Typography>
 		</Stack>
 	</Box>
 );
